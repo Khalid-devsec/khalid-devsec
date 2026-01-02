@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm **Khalid**, a **Cybersecurity & Networking student** focused on **secure systems, network defense, and hands‑on hacking**.  
 I build real applications, break them, and secure them properly.
 
-**BSc Cybersecurity & Networking .... currently in Semester Four ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat) 
+BSc Cybersecurity & Networking .... currently in Semester Four ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat) 
 
 Linux-first user: ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)  
 
