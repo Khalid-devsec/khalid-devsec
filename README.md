@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # khalid | DevSec ![Somali](https://img.shields.io/badge/Somali-Origin-blue?style=flat)
 
 
-I'm **Khalid**, a **Cybersecurity & Networking student** focused on **secure systems, network defense, and hands‑on hacking**.  
+I'm **Khalid**, a Cybersecurity & Networking student focused on secure systems, network defense, and hands‑on hacking.  
 I build real applications, break them, and secure them properly.
 
-BSc Cybersecurity & Networking student at ISBAT University ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat) 
+Cybersecurity & Networking student at ISBAT University ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat) 
 
 Linux-first user: ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)  
 
