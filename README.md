@@ -69,19 +69,7 @@ Learning by doing: coding, networking, and ethical hacking.
 
 ---
 
-## 🚜 Current Project
-### Farm Production & Delivery Application
-A secure, API-driven platform for managing **farm production and delivery workflows**.
 
-**Features**
-- Farmer product management  
-- Order & delivery workflow  
-- JWT authentication  
-- Role-based access control  
-
-**Stack:** Flask · REST APIs · SQLite · JWT  
-
----
 
 ## 🧠 Mindset
 Understand the network. Build the system. Test the security
