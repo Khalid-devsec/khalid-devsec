@@ -65,9 +65,15 @@ I build with an Assume Breach mindset. That means proactive log enrichment and c
 
 
 ## Contact 
-mail: abdullahikhalid918@gmail.com
-website: https://khalid-gold.vercel.app/
-LinkedIn: www.linkedin.com/in/khalid-abdullahi-535b543a6
-Understand the network. Build the system. Test the security
 
-How to reach me: abdullahikhalid918@gmail.com
+reach me via 
+
+mail: abdullahikhalid918@gmail.com
+
+website: https://khalid-gold.vercel.app/
+
+LinkedIn: www.linkedin.com/in/khalid-abdullahi-535b543a6
+
+
+
+
