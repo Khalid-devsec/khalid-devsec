@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 Upcoming Cybersecurity & Network Infrastructure Specialist. I specialize in building proactive correlation, defensive automation, secure network architectures, and responding to threats in high-stakes enterprise environments.
+
 Cybersecurity & Networking student at ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat)
 ---
 
