@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Khalid Abdullahi ![Somali](https://img.shields.io/badge/Somali-Origin-blue?style=flat)
-# *Cybersecurity & Network Infrastructure Specialist | Security Engineer | Penetration Testing | SIEM | Incident Response | Python*
+*Cybersecurity & Network Infrastructure Specialist | Security Engineer | Penetration Testing | SIEM | Incident Response | Python*
 
 ---
 
