@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Khalid Abdullahi ![Somali](https://img.shields.io/badge/Somali-Origin-blue?style=flat)
+**Cybersecurity & Network Infrastructure Specialist | Security Engineer | Penetration Testing | SIEM | Incident Response | Python*
 
 Cybersecurity & Networking student at ISBAT University ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat) 
 
-A cybersecurity and network infrastructure student who learns by building. Rather than just studying how systems work, I design and break them in my own lab environments. Thinking like an attacker so I can build like a defender: understanding how a system can be exploited is the fastest way to learn how to secure it.
+Upcoming Cybersecurity & Network Infrastructure Specialist. I specialize in building proactive correlation, defensive automation, secure network architectures, and responding to threats in high-stakes enterprise environments.
 
 ---
 
@@ -34,13 +35,13 @@ I build with an Assume Breach mindset. That means proactive log enrichment and c
 
 ##  Certificates 
 
-TCM Security linux 
+**TCM** **Security linux*
 <img width="1287" height="994" alt="image" src="https://github.com/user-attachments/assets/dea9e742-27a0-4c34-a92c-605671a611f8" />
 
-OPSWAT Introduction to Critical Infrastructure Protection (ICIP)
+**OPSWAT** **Introduction to Critical Infrastructure Protection (ICIP)*
 <img width="900" height="710" alt="image" src="https://github.com/user-attachments/assets/d85576bf-dce3-46be-a19e-ad931e044652" />
 
-Thinkcloudly IT AUDITING & GRC
+**Thinkcloudly** **IT AUDITING & GRC*
 <img width="1127" height="797" alt="image" src="https://github.com/user-attachments/assets/d2850c19-2b5e-47c7-9f07-1a98250ef22e" />
 
 
@@ -62,7 +63,10 @@ Thinkcloudly IT AUDITING & GRC
 
 
 
-## 🧠 Mindset
+## Contact 
+mail: abdullahikhalid918@gmail.com
+website: https://khalid-gold.vercel.app/
+LinkedIn: www.linkedin.com/in/khalid-abdullahi-535b543a6
 Understand the network. Build the system. Test the security
 
 How to reach me: abdullahikhalid918@gmail.com
