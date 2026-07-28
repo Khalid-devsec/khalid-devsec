@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 # Khalid Abdullahi ![Somali](https://img.shields.io/badge/Somali-Origin-blue?style=flat)
 # *Cybersecurity & Network Infrastructure Specialist | Security Engineer | Penetration Testing | SIEM | Incident Response | Python*
-Cybersecurity & Networking student at ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat)
+
 ---
 
-Cybersecurity & Networking student at ISBAT University ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat) 
 
 Upcoming Cybersecurity & Network Infrastructure Specialist. I specialize in building proactive correlation, defensive automation, secure network architectures, and responding to threats in high-stakes enterprise environments.
-
+Cybersecurity & Networking student at ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat)
 ---
 
 ## NARRATIVE
