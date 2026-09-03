@@ -49,10 +49,15 @@ I'm currently an unemployed penetration tester by choice, spending this year goi
 ---
 
 ##  Technical Stack
+
 Web app penetration testing
+
 Network/infra penetration testing
+
 Active Directory attacks
+
 MITRE ATT&CK framework
+
 Scripting
 
    
