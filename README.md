@@ -1,37 +1,32 @@
-
-
-<!--
-**Khalid-devsec/khalid-devsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Khalid Abdullahi ![Somali](https://img.shields.io/badge/Somali-Origin-blue?style=flat)
-*Cybersecurity & Network Infrastructure Specialist | Security Engineer | Penetration Testing | SIEM | Incident Response | Python*
+*Cybersecurity & Networking student | Penetration Testing *
 
 ---
 
 
-Upcoming Cybersecurity & Network Infrastructure Specialist. I specialize in building proactive correlation, defensive automation, secure network architectures, and responding to threats in high-stakes enterprise environments.
+I'm Khalid, a final-year Cyber Security and network student and offensive security researcher who started in cybersecurity 2 years ago. I specialize in Web, API, Network & Cloud Security, Exploit Development and a particular focus on Cloud Security.
+I'm also increasingly focused on AI red teaming, and I spend a lot of time on general offensive security research beyond any one niche.
 
-Cybersecurity & Networking student at ![ISBAT University](https://img.shields.io/badge/ISBAT-University-lightblue?style=flat)
+Here is where I post my ethical hacking documents and CTFs as I learn it. All writeups here are finished.
+<img width="768" height="326" alt="image" src="https://github.com/user-attachments/assets/77299bc1-60aa-40b0-984b-4c0fc4143abe" />
+
+I'm currently an unemployed penetration tester by choice, spending this year going deep on leveling up, writeups, and open-source tooling instead of taking a job, and I plan to keep it that way until the end of the year. 
+
+
 ---
+## main focus areas now:
 
-## NARRATIVE
+- Web Application Pentesting — in-depth, attack-by-attack coverage
 
-My entry into cybersecurity began with a fundamental curiosity about how modern organization systems hold up under adversarial conditions. That curiosity made me pursue Bachelor of Networking and cyber security, became rigorous hands-on practice: building secure network layers, stress-testing defenses, and configuring the security systems that watch over them.
-I build with an Assume Breach mindset. That means proactive log enrichment and correlation, defensive automation designed to flag threats early, and network architectures built to contain damage rather than just prevent it.
+- AI Pentesting — prompt injection, model exploitation, and AI red teaming techniques
+ <img width="1536" height="968" alt="image" src="https://github.com/user-attachments/assets/54b19c30-1ef7-4610-80ab-6e26c6dc495d" />
 
 
+## Track Record
 
+<img width="768" height="338" alt="image" src="https://github.com/user-attachments/assets/e51e4a88-e04e-431f-b4eb-e4772e761cf7" />
+
+---
 
 ---
 
@@ -54,11 +49,12 @@ I build with an Assume Breach mindset. That means proactive log enrichment and c
 ---
 
 ##  Technical Stack
-**OS:** Linux (primary), Windows ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)  
-**Python**   
-**C++**                          ![C++](https://img.shields.io/badge/C++-Language-lightblue?style=flat&logo=c%2B%2B&logoColor=white)    
-**Flask, REST APIs**             ![C++](https://img.shields.io/badge/C++-Language-lightblue?style=flat&logo=c%2B%2B&logoColor=white)
-**Oracle Database**
+Web app penetration testing
+Network/infra penetration testing
+Active Directory attacks
+MITRE ATT&CK framework
+Scripting
+
    
 
 ---
