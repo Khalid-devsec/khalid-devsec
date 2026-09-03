@@ -1,5 +1,5 @@
 # Khalid Abdullahi ![Somali](https://img.shields.io/badge/Somali-Origin-blue?style=flat)
-*Cybersecurity & Networking student | Penetration Testing *
+* Cybersecurity & Networking student | Penetration Testing *
 
 ---
 
